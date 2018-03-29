@@ -3,6 +3,8 @@ particuler-area-printing-test
 
 `CanvasElement` を含む指定エリアの印刷のテスト。
 
+![print view](./static/print-view.png)
+
 ## install
 
 ```sh
