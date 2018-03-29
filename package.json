@@ -1,0 +1,14 @@
+{
+  "name": "particuler-area-printing-test",
+  "version": "0.0.0",
+  "description": "particuler area printing test",
+  "main": "index.js",
+  "repository": "https://github.com/shohei-ot/particuler-area-printing-test",
+  "author": "Shohei Ohta <shohei.ot@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "node-sass": "^4.8.3",
+    "poi": "^9.6.13",
+    "sass-loader": "^6.0.7"
+  }
+}
