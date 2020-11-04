@@ -7,7 +7,7 @@
   "author": "Shohei Ohta <shohei.ot@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "node-sass": "4.13.1",
+    "node-sass": "4.14.1",
     "poi": "12.7.3",
     "sass-loader": "10.0.5"
   },
